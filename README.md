@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer & AIML enthusiast.</h3>
 
 
-- 🔭 I’m currently working on [amazan clone (Html, CSS)](https://meenuparashar18.github.io/Netflix-clone/)
+- 🔭 I’m currently working on [amazon clone (Html, CSS)](https://meenuparashar18.github.io/Netflix-clone/)
 
 - 🌱 I’m currently learning **React, MongoDB, Nodejs, other.**
 
