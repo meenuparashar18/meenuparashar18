@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meenu Parashar</h1>
 <h3 align="center">A passionate full stack developer & AIML enthusiast.</h3>
 
-<p align="left"> <img src="![img](https://github.com/user-attachments/assets/f76d81f7-b951-4728-a9d1-a673a4ef8be8)
+<p align="left"> <img src="![img](https://github.com/user-attachments/assets/f76d81f7-b951-4728-a9d1-a673a4ef8be8)" alt="meenuparashar18" /> </p>
 
-" alt="meenuparashar18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="![img](https://github.com/user-attachments/assets/b782b8ed-012a-4d14-adf9-887d758adfaa)
-" alt="meenuparashar18" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="![img](https://github.com/user-attachments/assets/b782b8ed-012a-4d14-adf9-887d758adfaa)" alt="meenuparashar18" /></a> </p>
 
 - 🔭 I’m currently working on [Netflix clone (Html, CSS)](https://meenuparashar18.github.io/Netflix-clone/)
 
