@@ -1,17 +1,13 @@
-<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
+
 <h1 align="center">Hi 👋, I'm Meenu Parashar</h1>
 <h3 align="center">A passionate full stack developer & AIML enthusiast.</h3>
 
+# 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and react js<br>
+<br>👨‍💻 All of my projects are available at https://github.com/meenuparashar18<br><br>📝 I regularly solving problems on https://leetcode.com/u/Meenuparashar18//<br><br>💬 Ask me about Javascript, React, Gsap and C++<br><br>📫 How to reach me meenuparashar18@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/meenu-parashar-798b57300/
 
-- 🔭 I’m currently working on [amazon clone (Html, CSS)](https://meenuparashar18.github.io/Netflix-clone/)
-
-- 🌱 I’m currently learning **React, MongoDB, Nodejs, other.**
-
-- 👯 I’m looking to collaborate on **Open-Source Contribution & Hackathons**
-
-- 💬 Ask me about **HTML, CSS,JAVA**
-
-- 📫 How to reach me **meenuparashar18@gmail.com**
+## 🌐 Socials:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
