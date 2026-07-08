@@ -49,11 +49,12 @@
 
 ## 🌐 Socials:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meenu parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meenu parashar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/meenu parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meenu parashar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/meenuparashar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meenuparashar18" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/meenu-parashar-798b57300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-verma-883a26248" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/piyuxhxoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyuxhxoni" height="30" width="40" /></a> -->
+<a href="https://www.codechef.com/users/meenu1808" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codexstellar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/meenuparasshar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="stellar-07" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Meenuparashar18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stellar07" height="30" width="40" /></a>
 </p>
 
 ---
