@@ -1,15 +1,19 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Meenu+Parashar;Full+Stack+Developer;AI+Enthusiast;DSA+Enthusiast;Open+Source+Contributor;Building+Real+World+Projects+🚀" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meenuparashar18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 ---
 
 ## 👩‍💻 About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and react js<br>
+🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and Typescript<br>
 <br>👨‍💻 All of my projects are available at https://github.com/meenuparashar18<br><br>📝 I regularly solving problems on https://leetcode.com/u/Meenuparashar18//<br><br>💬 Ask me about Javascript, React, Gsap and C++<br><br>📫 How to reach me meenuparashar18@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/meenu-parashar-798b57300/
----
 
+---
 
 ## 🌐 Socials:
 <p align="center">
@@ -56,5 +60,4 @@
 
 ---
 
----
 
