@@ -1,27 +1,130 @@
-
 <h1 align="center">Hi 👋, I'm Meenu Parashar</h1>
-<h3 align="center"> full stack developer & AI enthusiast</h3>
 
-# 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and react js<br>
-<br>👨‍💻 All of my projects are available at https://github.com/meenuparashar18<br><br>📝 I regularly solving problems on https://leetcode.com/u/Meenuparashar18//<br><br>💬 Ask me about Javascript, React, Gsap and C++<br><br>📫 How to reach me meenuparashar18@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/meenu-parashar-798b57300/
-
-## 🌐 Socials:
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meenu parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meenu parashar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/meenu parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meenu parashar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/meenuparashar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meenuparashar18" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Meenu+Parashar;Full+Stack+Developer;AI+Enthusiast;DSA+Enthusiast;Open+Source+Learner;Building+Real+World+Projects+🚀;Always+Learning+Something+New" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenuparashar18&show_icons=true&locale=en&layout=compact" alt="meenuparashar18" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=meenuparashar18&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/meenuparashar18?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/meenuparashar18?style=for-the-badge"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenuparashar18&show_icons=true&locale=en" alt="meenuparashar18" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenuparashar18&" alt="meenuparashar18" /></p>
+# 👩‍💻 About Me
+
+🎓 B.Tech CSE Student at **GLA University**
+
+💻 Passionate about **Full Stack Development & Artificial Intelligence**
+
+📚 Solving **Data Structures & Algorithms** using **C++ (Striver A2Z)**
+
+🚀 Building scalable Full Stack applications
+
+🌱 Exploring Open Source and modern web technologies
+
+🎯 Goal: Become a Software Engineer at a Top Product-Based Company
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,ts,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,postman,figma,linux"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meenuparashar18&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=meenuparashar18&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenuparashar18&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meenuparashar18&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=meenuparashar18&theme=algolia&margin-w=8&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/meenu-parashar-798b57300/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/meenuparashar18">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+💙 Data Structures & Algorithms
+
+💙 Full Stack Development
+
+💙 Artificial Intelligence
+
+💙 Open Source
+
+💙 Building Real World Projects
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+<i>"Discipline beats motivation. Consistency creates success."</i>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for Visiting My Profile ⭐
+</h3>
 
