@@ -10,8 +10,8 @@
 
 ## 👩‍💻 About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and Typescript<br>
-<br>👨‍💻 All of my projects are available at https://github.com/meenuparashar18<br><br>📝 I regularly solving problems on https://leetcode.com/u/Meenuparashar18//<br><br>💬 Ask me about Javascript, React, Gsap and C++<br><br>📫 How to reach me meenuparashar18@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/meenu-parashar-798b57300/
+🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and Typescript <br>
+<br>👨‍💻 All of my projects are available at https://github.com/meenuparashar18<br><br>📝 I regularly solving problems on https://leetcode.com/u/Meenuparashar18//<br><br>💬 Ask me about Javascript, React and C++ <br><br>📫 How to reach me "meenuparashar18@gmail.com "<br><br>📄 Know about my experiences https://www.linkedin.com/in/meenu-parashar-798b57300/
 
 ---
 
