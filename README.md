@@ -9,9 +9,24 @@
 ---
 
 ## 👩‍💻 About Me
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and Typescript <br>
-<br>👨‍💻 All of my projects are available at https://github.com/meenuparashar18<br><br>📝 I regularly solving problems on https://leetcode.com/u/Meenuparashar18//<br><br>💬 Ask me about Javascript, React and C++ <br><br>📫 How to reach me "meenuparashar18@gmail.com "<br><br>📄 Know about my experiences https://www.linkedin.com/in/meenu-parashar-798b57300/
+
+🔭 Currently building real-world Full Stack applications<br><br>
+
+🤖 Exploring Artificial Intelligence and modern software development<br><br>
+
+🌍 Contributing to Open Source and continuously improving development skills<br><br>
+
+👨‍💻 All of my projects are available at <a href="https://github.com/meenuparashar18">GitHub</a><br><br>
+
+📝 I regularly solve problems on <a href="https://leetcode.com/u/Meenuparashar18/">LeetCode</a><br><br>
+
+💬 Ask me about JavaScript, React, GSAP, C++ and Web Development<br><br>
+
+📫 Reach me at <a href="mailto:meenuparashar18@gmail.com">meenuparashar18@gmail.com</a><br><br>
+
+📄 Know more about my experience on <a href="https://www.linkedin.com/in/meenu-parashar-798b57300/">LinkedIn</a>
 
 ---
 
