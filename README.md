@@ -13,6 +13,18 @@
 - 🌱 Continuously improving through projects, problem-solving, and open-source contributions
 - 📫 Reach me: **meenuparashar18@gmail.com**
 ---
+## 🌐 Socials:
+
+<p align="center">
+<a href="https://www.linkedin.com/in/meenu-parashar-798b57300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-verma-883a26248" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/piyuxhxoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyuxhxoni" height="30" width="40" /></a> -->
+<a href="https://www.codechef.com/users/meenu1808" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codexstellar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/meenuparasshar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="stellar-07" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Meenuparashar18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stellar07" height="30" width="40" /></a>
+</p>
+
+
+---
 
 ## 🚀 Tech Stack
 
@@ -46,16 +58,6 @@
 </p>
 
 ---
-
-## 🌐 Socials:
-
-<p align="center">
-<a href="https://www.linkedin.com/in/meenu-parashar-798b57300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-verma-883a26248" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/piyuxhxoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyuxhxoni" height="30" width="40" /></a> -->
-<a href="https://www.codechef.com/users/meenu1808" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codexstellar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/meenuparasshar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="stellar-07" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Meenuparashar18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stellar07" height="30" width="40" /></a>
-</p>
 
 ---
 
