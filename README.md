@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 About Me
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 💻 Full Stack Developer building scalable web applications and AI-powered solutions
 - 🧠 Strong foundation in Data Structures & Algorithms using C++
 - 🚀 Creating real-world projects with clean and maintainable code
