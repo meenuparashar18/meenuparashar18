@@ -47,16 +47,13 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/meenu-parashar-798b57300/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/meenuparashar18">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/meenu parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meenu parashar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/meenu parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meenu parashar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/meenuparashar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meenuparashar18" height="30" width="40" /></a>
 </p>
 
 ---
