@@ -22,7 +22,7 @@
 
 📝 I regularly solve problems on <a href="https://leetcode.com/u/Meenuparashar18/">LeetCode</a><br><br>
 
-💬 Ask me about JavaScript, React, GSAP, C++ and Web Development<br><br>
+💬 Ask me about Dsa and Web Development<br><br>
 
 📫 Reach me at <a href="mailto:meenuparashar18@gmail.com">meenuparashar18@gmail.com</a><br><br>
 
