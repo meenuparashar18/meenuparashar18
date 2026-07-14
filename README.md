@@ -46,7 +46,7 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,python,java" />
 </p>
 
 ---
